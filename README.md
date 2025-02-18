@@ -1,4 +1,4 @@
-🧠 Maze Solver with Q-Learning 🎯🔀🗺️  
+ # Maze Solver with Q-Learning 🧠🎯🗺️  
 This project implements a reinforcement learning agent that learns to navigate a maze using the **Q-learning algorithm**. The agent explores, avoids obstacles, and finds the optimal path to reach the goal.
 
 🚀 Features  
